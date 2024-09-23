@@ -1,4 +1,4 @@
-- 🌱 Atualmente aprendendo JavaScript, HTML, CSS e React
+- 🌱 Atualmente aprendendo JavaScript, HTML, CSS (React)
 
 <!---
 dudawl18/dudawl18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
