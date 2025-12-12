@@ -19,7 +19,8 @@
 
 <h3>Perfil Status</h3>
 
-![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=dudawl18&show_icons=true&theme=dracula)
+![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=dudawl18&show_icons=true&theme=radical)
+
 
 <!---
 dudawl18/dudawl18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
