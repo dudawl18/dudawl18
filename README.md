@@ -15,12 +15,6 @@
   
 <div/> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudawl18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3>Perfil Status</h3>
-
-![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=dudawl18&show_icons=true&theme=radical)
-
 
 <!---
 dudawl18/dudawl18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
